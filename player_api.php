@@ -10,10 +10,10 @@
     "created_at": "1700000000",
     "exp_date": "1999999999",
     "max_connections": 1,
-    "allowed_output_formats": ["m3u8", "mp4"]
+    "allowed_output_formats": ["mp4"]
   },
   "server_info": {
-    "url": "SEU_USUARIO.github.io",
+    "url": "marcpbf.github.io",
     "port": "443",
     "https_port": "443",
     "server_protocol": "https",
